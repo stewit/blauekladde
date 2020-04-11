@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://stewit.github.io/blauekladde/"
 languageCode = "en-us"
 title = "Blaue Kladde Rezepte"
 theme = "kiss"
