@@ -1,0 +1,4 @@
+Sitemap: https://stewit.github.io/blauekladde/sitemapindex.xml
+
+User-Agent: *
+Host: stewit.github.io
