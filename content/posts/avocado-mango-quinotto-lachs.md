@@ -6,7 +6,7 @@ draft: false
 
 # Avocado-Mango Quinotto mit Lachs
 
-![Avocado Mango Quinotto mit Lachs](avocado-mango-quinotto-lachs-1.jpg)
+![Avocado Mango Quinotto mit Lachs](/images/avocado-mango-quinotto-lachs-1.jpg)
 
 ## Zutaten
 

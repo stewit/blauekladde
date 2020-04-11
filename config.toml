@@ -1,4 +1,5 @@
 baseURL = "https://stewit.github.io/blauekladde/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Blaue Kladde Rezepte"
 theme = "kiss"
