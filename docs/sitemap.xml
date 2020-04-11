@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://stewit.github.io/blauekladde/</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/2020/</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/archive.html</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/galleries/</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/listings/</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-mit-lachs.html</loc>
+  <lastmod>2020-04-11T18:47:00Z</lastmod>
+ </url>
+</urlset>
