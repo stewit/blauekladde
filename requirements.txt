@@ -1,2 +1,2 @@
-nikola==8.0.4
+nikola==8.0.4 [extras]
 jinja2
