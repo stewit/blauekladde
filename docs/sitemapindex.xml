@@ -6,15 +6,59 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/avocado.xml</loc>
+  <lastmod>2020-04-12T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_herzhaft.xml</loc>
+  <lastmod>2020-04-12T09:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_pfannengericht.xml</loc>
+  <lastmod>2020-04-12T09:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_rezept.xml</loc>
+  <lastmod>2020-04-12T11:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_rezepte.xml</loc>
+  <lastmod>2020-04-12T09:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/hackfleisch.xml</loc>
+  <lastmod>2020-04-12T11:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/lachs.xml</loc>
+  <lastmod>2020-04-12T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/mango.xml</loc>
+  <lastmod>2020-04-12T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/paprika.xml</loc>
+  <lastmod>2020-04-12T11:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/quinoa.xml</loc>
+  <lastmod>2020-04-12T11:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stewit.github.io/blauekladde/categories/reis.xml</loc>
+  <lastmod>2020-04-12T11:05:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://stewit.github.io/blauekladde/galleries/rss.xml</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stewit.github.io/blauekladde/rss.xml</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T11:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stewit.github.io/blauekladde/sitemap.xml</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
  </sitemap>
 </sitemapindex>

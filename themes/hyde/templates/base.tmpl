@@ -26,11 +26,11 @@
             {{ footer.html_footer() }}
         </div>
     </div>
-
     <div class="content container" id="content">
        {% block content %}{% endblock %}
     </div>
-    {{ base.late_load_js() }}
+  
+    {{ base.late_load_js() }}        
     {% if date_fanciness != 0 %}
         <!-- fancy dates -->
         <script>
@@ -38,7 +38,7 @@
         fancydates({{ date_fanciness }}, {{ js_date_format }});
         </script>
         <!-- end fancy dates -->
-    {% endif %}
+    {% endif %}    
     {% block extra_js %}{% endblock %}
     <script>
     baguetteBox.run('div#content', {

@@ -2,8 +2,8 @@
 .. title: Avocado-Mango-Quinotto mit Lachs
 .. slug: avocado-mango-quinotto-mit-lachs
 .. date: 2020-04-11 17:53:07 UTC+02:00
-.. tags: 
-.. category: 
+.. tags: Mango, Lachs, Avocado, Quinoa
+.. category: Rezept
 .. link: 
 .. description: 
 .. type: text
@@ -29,3 +29,13 @@ Avocado, Mango, Zwiebel klein würfeln. Zwiebel in Kokosöl andünsten. Quinoa k
 Zuletzt Avocado und Mango dazugeben und mit Ge­würzen abschmecken. 
 
 Lachs und Quinotto auf Teller separat anrichten. 
+
+## Kommentare
+
+<script src="https://utteranc.es/client.js"
+        repo="stewit/blauekladde"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

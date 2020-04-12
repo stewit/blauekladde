@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://stewit.github.io/blauekladde/</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://stewit.github.io/blauekladde/2020/</loc>
@@ -15,11 +15,55 @@
  </url>
  <url>
   <loc>https://stewit.github.io/blauekladde/archive.html</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stewit.github.io/blauekladde/categories/</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T09:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/avocado.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_herzhaft.html</loc>
+  <lastmod>2020-04-12T09:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_pfannengericht.html</loc>
+  <lastmod>2020-04-12T09:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_rezept.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/cat_rezepte.html</loc>
+  <lastmod>2020-04-12T09:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/hackfleisch.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/lachs.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/mango.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/paprika.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/quinoa.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/categories/reis.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stewit.github.io/blauekladde/galleries/</loc>
@@ -30,7 +74,15 @@
   <lastmod>2020-04-11T18:47:00Z</lastmod>
  </url>
  <url>
+  <loc>https://stewit.github.io/blauekladde/pages/paprika-hackfleisch-mit-reis.html</loc>
+  <lastmod>2020-04-12T09:19:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-mit-lachs.html</loc>
-  <lastmod>2020-04-11T18:47:00Z</lastmod>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stewit.github.io/blauekladde/posts/paprika-hackfleisch-mit-reis.html</loc>
+  <lastmod>2020-04-12T11:06:00Z</lastmod>
  </url>
 </urlset>
