@@ -1,14 +1,14 @@
-<!--
-.. title: Avocado-Mango-Quinotto mit Lachs
-.. slug: avocado-mango-quinotto-mit-lachs
-.. date: 2020-04-11 17:53:07 UTC+02:00
-.. tags: Mango, Lachs, Avocado, Quinoa
-.. category: Rezept
-.. link: 
-.. description: 
-.. type: text
--->
-
+---
+title: Avocado-Mango-Quinotto mit Lachs
+date: 2020-04-13T04:32:36.405Z
+updated: 2020-04-13T04:32:36.416Z
+tags:
+  - Mango
+  - Lachs
+  - Avocado
+  - Quinoa
+category: Rezept
+---
 # Avocado-Mango Quinotto mit Lachs
 
 ![Avocado Mango Quinotto mit Lachs Bild](./avocado-mango-quinotto-lachs-1.jpg)
