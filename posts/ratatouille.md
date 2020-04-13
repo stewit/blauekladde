@@ -36,5 +36,15 @@ Jetzt mit Essig ablöschen und Deckel drauf. Ich nehme dazu Balsamessig aus dem 
 7. Bei kleiner Hitze lasse ich das ganze nun köcheln, sagen wir mal 10 Minuten lang bis die Auberginen gar sind. Nochmal abschmecken mit Salz, Zucker, Essig und ganz am Schluss noch mal einen Schuss Olivenöl. 
 
 
-
+## Bemerkung
 Es kann heiß gegessen werden oder kalt. Mein Mann und ich mögen es am liebsten, wenn es schon eine Nacht im Kühlschrank verbracht hat. Dann ist alles schön durchgezogen. 
+
+## Kommentare
+
+<script src="https://utteranc.es/client.js"
+        repo="stewit/blauekladde"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
