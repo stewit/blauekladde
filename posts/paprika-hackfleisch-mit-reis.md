@@ -27,7 +27,7 @@ Ein Feierabendgericht: Nach langen und anstrengenden Arbeitstagen schnell und ei
 
 ## Zubereitung
 
-Hackfleisch in Öl in der Pfane anbraten, Zwiebeln und Paprika dazu und mit anbraten. Paprikapulver und Tomatenmark dazu und ebenfalls kurz mit anbraten. Mit Salz und Pfeffer und mediterranen Gewürzen würzen. Bei Bedarf mit wenig Gemüsebrühe ablöschen. Deckel auf die Pfanne und bei kleiner Hitze so lange garen bis die Paprika fertig sind.
+Hackfleisch in Öl in der Pfanne anbraten, Zwiebeln und Paprika dazu und mit anbraten. Paprikapulver und Tomatenmark dazu und ebenfalls kurz mit anbraten. Mit Salz und Pfeffer und mediterranen Gewürzen würzen. Bei Bedarf mit wenig Gemüsebrühe ablöschen. Deckel auf die Pfanne und bei kleiner Hitze so lange garen bis die Paprika fertig sind.
 
 Parallel Reis kochen.
 
