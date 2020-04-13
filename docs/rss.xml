@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blaue Kladde</title><link>https://stewit.github.io/blauekladde/</link><description>Rezepte aus der blauen Kladde</description><atom:link href="https://stewit.github.io/blauekladde/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:"&gt;stewit&lt;/a&gt; </copyright><lastBuildDate>Sun, 12 Apr 2020 11:05:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Paprika-Hackfleisch mit Reis</title><link>https://stewit.github.io/blauekladde/posts/paprika-hackfleisch-mit-reis.html</link><dc:creator>stewit</dc:creator><description>&lt;div&gt;&lt;h3&gt;Beschreibung&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blaue Kladde</title><link>https://blauekladde.netlify.com</link><description>Rezepte aus der blauen Kladde</description><atom:link href="https://blauekladde.netlify.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>de</language><copyright>Contents © 2020 &lt;a href="mailto:"&gt;stewit&lt;/a&gt; </copyright><lastBuildDate>Mon, 13 Apr 2020 09:24:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Paprika-Hackfleisch mit Reis</title><link>https://blauekladde.netlify.com/posts/paprika-hackfleisch-mit-reis.html</link><dc:creator>stewit</dc:creator><description>&lt;div&gt;&lt;h3&gt;Beschreibung&lt;/h3&gt;
 &lt;p&gt;Ein Feierabendgericht: Nach langen und anstrengenden Arbeitstagen schnell und einfach zuzubereiten.&lt;/p&gt;
 &lt;h3&gt;Zutaten&lt;/h3&gt;
 &lt;ul&gt;
@@ -21,8 +21,8 @@
 &lt;p&gt;Dazu passt Rotwein.&lt;/p&gt;
 &lt;h3&gt;Kommentare&lt;/h3&gt;
 &lt;script src="https://utteranc.es/client.js" repo="stewit/blauekladde" issue-term="pathname" theme="github-light" crossorigin="anonymous" async&gt;
-&lt;/script&gt;&lt;/div&gt;</description><category>Hackfleisch</category><category>Paprika</category><category>Reis</category><guid>https://stewit.github.io/blauekladde/posts/paprika-hackfleisch-mit-reis.html</guid><pubDate>Sun, 12 Apr 2020 09:19:56 GMT</pubDate></item><item><title>Avocado-Mango-Quinotto mit Lachs</title><link>https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-mit-lachs.html</link><dc:creator>stewit</dc:creator><description>&lt;div&gt;&lt;h2&gt;Avocado-Mango Quinotto mit Lachs&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Avocado Mango Quinotto mit Lachs Bild" src="https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-lachs-1.jpg"&gt;&lt;/p&gt;
+&lt;/script&gt;&lt;/div&gt;</description><category>Hackfleisch</category><category>Paprika</category><category>Reis</category><guid>https://blauekladde.netlify.com/posts/paprika-hackfleisch-mit-reis.html</guid><pubDate>Mon, 13 Apr 2020 02:34:16 GMT</pubDate></item><item><title>Avocado-Mango-Quinotto mit Lachs</title><link>https://blauekladde.netlify.com/posts/avocado-mango-quinotto-lachs.html</link><dc:creator>stewit</dc:creator><description>&lt;div&gt;&lt;h2&gt;Avocado-Mango Quinotto mit Lachs&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Avocado Mango Quinotto mit Lachs Bild" src="https://blauekladde.netlify.com/posts/avocado-mango-quinotto-lachs-1.jpg"&gt;&lt;/p&gt;
 &lt;h3&gt;Zutaten&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;1 Avocado&lt;/li&gt;
@@ -38,4 +38,4 @@
 &lt;p&gt;Lachs und Quinotto auf Teller separat anrichten. &lt;/p&gt;
 &lt;h3&gt;Kommentare&lt;/h3&gt;
 &lt;script src="https://utteranc.es/client.js" repo="stewit/blauekladde" issue-term="pathname" theme="github-light" crossorigin="anonymous" async&gt;
-&lt;/script&gt;&lt;/div&gt;</description><category>Avocado</category><category>Lachs</category><category>Mango</category><category>Quinoa</category><guid>https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-mit-lachs.html</guid><pubDate>Sat, 11 Apr 2020 15:53:07 GMT</pubDate></item></channel></rss>
+&lt;/script&gt;&lt;/div&gt;</description><category>Avocado</category><category>Lachs</category><category>Mango</category><category>Quinoa</category><guid>https://blauekladde.netlify.com/posts/avocado-mango-quinotto-lachs.html</guid><pubDate>Mon, 13 Apr 2020 02:32:36 GMT</pubDate></item></channel></rss>

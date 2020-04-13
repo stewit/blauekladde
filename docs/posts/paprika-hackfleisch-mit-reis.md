@@ -1,14 +1,13 @@
-<!--
-.. title: Paprika-Hackfleisch mit Reis
-.. slug: paprika-hackfleisch-mit-reis
-.. date: 2020-04-12 11:19:56 UTC+02:00
-.. tags: Paprika, Hackfleisch, Reis
-.. category: Rezept
-.. link: 
-.. description: 
-.. type: text
--->
-
+---
+title: Paprika-Hackfleisch mit Reis
+date: 2020-04-13T04:34:16.618Z
+updated: 2020-04-13T04:34:16.633Z
+tags:
+  - Paprika
+  - Hackfleisch
+  - Reis
+category: Rezept
+---
 ## Beschreibung
 
 Ein Feierabendgericht: Nach langen und anstrengenden Arbeitstagen schnell und einfach zuzubereiten.

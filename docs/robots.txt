@@ -1,4 +1,4 @@
-Sitemap: https://stewit.github.io/blauekladde/sitemapindex.xml
+Sitemap: https://blauekladde.netlify.com/sitemapindex.xml
 
 User-Agent: *
-Host: stewit.github.io
+Host: blauekladde.netlify.com

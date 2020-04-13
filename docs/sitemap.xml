@@ -6,83 +6,95 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://stewit.github.io/blauekladde/</loc>
-  <lastmod>2020-04-12T09:19:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/</loc>
+  <lastmod>2020-04-13T09:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/2020/</loc>
+  <loc>https://blauekladde.netlify.com/2020/</loc>
   <lastmod>2020-04-11T18:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/archive.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/admin/</loc>
+  <lastmod>2020-04-13T09:24:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/</loc>
+  <loc>https://blauekladde.netlify.com/archive.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://blauekladde.netlify.com/categories/</loc>
   <lastmod>2020-04-12T09:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/avocado.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/avocado.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/cat_herzhaft.html</loc>
+  <loc>https://blauekladde.netlify.com/categories/cat_herzhaft.html</loc>
   <lastmod>2020-04-12T09:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/cat_pfannengericht.html</loc>
+  <loc>https://blauekladde.netlify.com/categories/cat_pfannengericht.html</loc>
   <lastmod>2020-04-12T09:42:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/cat_rezept.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/cat_rezept.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/cat_rezepte.html</loc>
+  <loc>https://blauekladde.netlify.com/categories/cat_rezepte.html</loc>
   <lastmod>2020-04-12T09:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/hackfleisch.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/hackfleisch.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/lachs.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/lachs.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/mango.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/mango.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/paprika.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/paprika.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/quinoa.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/quinoa.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/categories/reis.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/categories/reis.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/galleries/</loc>
+  <loc>https://blauekladde.netlify.com/galleries/</loc>
   <lastmod>2020-04-11T18:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/listings/</loc>
+  <loc>https://blauekladde.netlify.com/listings/</loc>
   <lastmod>2020-04-11T18:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/pages/paprika-hackfleisch-mit-reis.html</loc>
+  <loc>https://blauekladde.netlify.com/pages/impressum.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://blauekladde.netlify.com/pages/paprika-hackfleisch-mit-reis.html</loc>
   <lastmod>2020-04-12T09:19:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/posts/avocado-mango-quinotto-mit-lachs.html</loc>
+  <loc>https://blauekladde.netlify.com/posts/avocado-mango-quinotto-lachs.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://blauekladde.netlify.com/posts/avocado-mango-quinotto-mit-lachs.html</loc>
   <lastmod>2020-04-12T11:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stewit.github.io/blauekladde/posts/paprika-hackfleisch-mit-reis.html</loc>
-  <lastmod>2020-04-12T11:06:00Z</lastmod>
+  <loc>https://blauekladde.netlify.com/posts/paprika-hackfleisch-mit-reis.html</loc>
+  <lastmod>2020-04-13T09:25:00Z</lastmod>
  </url>
 </urlset>
