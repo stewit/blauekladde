@@ -142,6 +142,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archiv"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS-Feed"),
+        ("/pages/impressum.html", "Impressum")
     )
 }
 
