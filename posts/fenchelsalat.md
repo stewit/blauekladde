@@ -4,8 +4,10 @@ date: 2020-04-17T06:32:40.793Z
 updated: 2020-04-17T06:32:40.838Z
 tags:
   - Fenchel
+  - Feta
+  - Süßkartoffel
 ---
-Dieser Fenchelsalat ist eine Erfindung meiner Eltern, frei nach einem Rezept von Barbara Rütting in dem weder Fenchel noch Feta eine Rolle spielten. Ich fragte einmal meine Mutter danach, als ich mit einer Freundin etwas kochen wollte und bekam das Kochbuch von Barbara Rütting in die Handgerückt. Dort fand sich kein Rezept für Fenchel und auf Nachfrage wurde eines herausgesucht, was die Idee Zitronensaft mit diesem hier teilt. Mein Vater hat es mal in seinem Blog gepostet: <https://b-eats-blog.de/2011/03/fenchel-roh-gekocht-10853806/>, doch in meiner Küche hat es sich nochmal verändert. Fenchel wäre sicher ein seltener Gast in unserer Küche, gäbe es nicht dieses Rezept.
+Dieser Fenchelsalat ist eine Erfindung meiner Eltern, frei nach einem Rezept von Barbara Rütting in dem weder Fenchel noch Feta eine Rolle spielten. Ich fragte einmal meine Mutter danach, als ich mit einer Freundin etwas kochen wollte und bekam das Kochbuch von Barbara Rütting in die Hand gedrückt. Dort fand sich kein Rezept für Fenchel und auf Nachfrage wurde eines herausgesucht, was die Idee Zitronensaft mit diesem hier teilt. Mein Vater hat es mal in seinem Blog gepostet: <https://b-eats-blog.de/2011/03/fenchel-roh-gekocht-10853806/>, doch in meiner Küche hat es sich nochmal leicht verändert. Fenchel wäre sicher ein seltener Gast in unserer Küche, gäbe es nicht dieses Rezept.
 
 ## Zutaten
 
