@@ -2,6 +2,14 @@
 title: Linsensuppe
 date: 2020-04-20T18:25:27.793Z
 updated: 2020-04-20T18:25:27.830Z
+tags:
+  - Linsen
+  - Kartoffeln
+  - Möhren
+  - Sellerie
+  - Lorbeerblatt
+  - Eintopf
+  - Süßkartoffel
 ---
 Linsensuppe ist ein ständiger Begleiter meiner Kindheit gewesen. Dieser ehemalige Kinderschreck in graugüner Farbe hat sich über die Jahre zu meinem ­und mitlerweile unserem­ Lieblingseintopf gemausert. Wir essen ihn gerne in der klassischen Version, aber zur Abwechslung darf es aber auch eine indische Variante mit Curry, roten Linsen und Süsskartoffel.
 
