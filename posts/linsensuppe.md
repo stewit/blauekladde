@@ -11,7 +11,7 @@ tags:
   - Eintopf
   - Süßkartoffel
 ---
-Linsensuppe ist ein ständiger Begleiter meiner Kindheit gewesen und so findet man ein ähnliches Rezept hier <http://petrakocht.b-eats-blog.de/?p=17975902>. Dieser ehemalige Kindberschreck in graugrüner Farbe hat sich über die Jahre zu meinem ­und mittlerweile unserem­ Lieblingseintopf gemausert. Wir essen ihn gerne in der klassischen Version, aber zur Abwechslung darf es aber auch eine indische Variante mit Curry, roten Linsen und Süsskartoffel sein.
+Linsensuppe ist ein ständiger Begleiter meiner Kindheit gewesen und so findet man ein ähnliches Rezept hier <http://petrakocht.b-eats-blog.de/?p=17975902>. Dieser ehemalige Kinderschreck in graugrüner Farbe hat sich über die Jahre zu meinem ­und mittlerweile unserem­ Lieblingseintopf gemausert. Wir essen ihn gerne in der klassischen Version, aber zur Abwechslung darf es aber auch eine indische Variante mit Curry, roten Linsen und Süsskartoffel sein.
 
 ## Zutaten
 
