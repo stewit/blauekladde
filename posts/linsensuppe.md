@@ -41,11 +41,8 @@ Linsensuppe ist ein ständiger Begleiter meiner Kindheit gewesen und so findet m
 ## Tipp und Varianten
 
 Zu zweit reicht die Suppe für 2 Tage, wenn beide viel Hunger haben. Sonst sogar länger. Da die Suppe stark andickt holt man am zweiten Tag keine "Suppe" mehr aus dem Kühlschrank. Damit es wieder Suppe wird muss man mit etwas Wasser oder Brühe verdünnen. Früher gabs die Linsensuppe am zweiten Tag zusammen mit Nudeln, also anstatt von einer Nudelsauce. Zu zweit ist das leider nicht machbar, es sei denn man will eine Woche lang jeden Tag Linsensuppe essen.
-Man kann unterschiedlich variieren, je nach Laune und Inhalt der Vorratskammer. Hier ein paar Beispiele mit denen wir gute Resultate erzielt haben:\
- rote Linsen, statt Pardinalinsen\
-und/oder\
- Süßkartoffel, statt Kartoffel\
-und/oder\
- Staudensellerie, statt Knollensellerie\
-und/oder\
- mit Curry würzen, statt mit Thymian
+Man kann unterschiedlich variieren, je nach Laune und Inhalt der Vorratskammer. Hier ein paar Beispiele mit denen wir gute Resultate erzielt haben:
+* rote Linsen, statt Pardinalinsen und/oder
+* Süßkartoffel, statt Kartoffel und/oder
+* Staudensellerie, statt Knollensellerie und/oder
+* mit Curry würzen, statt mit Thymian
