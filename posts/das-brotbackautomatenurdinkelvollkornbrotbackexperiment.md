@@ -1,5 +1,5 @@
 ---
-title: Das Brotbackautomatenurdinkelvollkornbrotbackexperiment
+title: Das Urdinkelvollkornbrotbackexperiment im Brotbackautomaten
 date: 2020-04-23T14:14:23.116Z
 updated: 2020-04-23T14:14:27.845Z
 tags:
