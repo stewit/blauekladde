@@ -9,7 +9,7 @@ tags:
   - Olivenöl
 ---
 Die Herausforderung bei Pesto alla Genovese ist nicht die Zutatenliste. Pinienkerne und Parmesan, ein vernüftiges Olivenöl und frisches Basilikum bekommt man mittlerweile selbst im Discounter. Wenn man es mit dem herkömmlichen deutschen Supermarkt vergleicht, kann sich die Discounterwahre hier qualitätsmäßig messen und das selbstgemachte Pesto schmeckt in jedem Fall besser als das was man im Glas kaufen kann. Man hat die Mengenverhältnisse unter Kontrolle und kann es so machen, wie man es am liebsten mag und ein frisches Basilikum spricht für sich. 
-Ich würde es so sagen, je einfacher ein Gericht ist, desdo mehr fällt die Qualität der Zutaten ins Gewicht. Das Aroma wird nicht durch eine Vielzahl an Gewürzen produziert, sondern es steckt in den Einzelzutaten bereits drin. 
+Ich würde es so sagen, je einfacher ein Gericht ist, desdo mehr fällt die Qualität der Zutaten ins Gewicht. Das Aroma wird nicht durch eine Vielzahl an Gewürzen produziert, sondern es steckt in den Einzelzutaten bereits drin. Es lohnt sich also auch mal mehr in gute Zutaten zu investieren, wenn es mehr als lecker werden soll. 
 
 ## Zutaten
 * 50g Pinienkerne
@@ -20,8 +20,8 @@ Ich würde es so sagen, je einfacher ein Gericht ist, desdo mehr fällt die Qual
 
 ## Zubereitung
 1. Für Pesto brauchen wir eine Moulinette bzw. einen Zerkleinerer. Das Basilikum schneiden, waschen und in einer Salatschleuder trocknen. 
-2. Pinienkerne in der Pfanne rösten bis sie leicht Farbe ansetzen und in die Moulinette füllen. Eine Knoblauchzehe, etwas Salz und den Parmesankäse hinzufügen. Alles zusammen heckseln. 
-3. Jetzt das Basilikum hinzufügen und mit heckseln. Nach und nach Olivenöl hinzufügen, bis das Pesto die richtige Konsistenz hat. 
+2. Pinienkerne in der Pfanne rösten bis sie leicht Farbe ansetzen und in die Moulinette füllen. Eine Knoblauchzehe, etwas Salz und den Parmesankäse hinzufügen. Alles zusammen häckseln. 
+3. Jetzt das Basilikum hinzufügen und mit häckseln. Nach und nach Olivenöl hinzufügen, bis das Pesto die richtige Konsistenz hat. 
 
 
 ## Basilium-Exkurs
