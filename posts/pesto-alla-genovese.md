@@ -7,7 +7,7 @@ tags:
   - Pinienkerne
   - Knoblauch
   - Olivenöl
-previewimage: /images/uploads/basilikum.jpeg
+previewimage: ""
 ---
 Die Herausforderung bei Pesto alla Genovese ist nicht die Zutatenliste. Pinienkerne und Parmesan, ein vernüftiges Olivenöl und frisches Basilikum bekommt man mittlerweile selbst im Discounter. Wenn man es mit dem herkömmlichen deutschen Supermarkt vergleicht, kann sich die Discounterwahre hier qualitätsmäßig messen und das selbstgemachte Pesto schmeckt in jedem Fall besser als das was man im Glas kaufen kann. Man hat die Mengenverhältnisse unter Kontrolle und kann es so machen, wie man es am liebsten mag und ein frisches Basilikum spricht für sich. 
 Ich würde es so sagen, je einfacher ein Gericht ist, desto mehr fällt die Qualität der Zutaten ins Gewicht. Das Aroma wird nicht durch eine Vielzahl an Gewürzen produziert, sondern es steckt in den Einzelzutaten bereits drin. Es lohnt sich also auch mal mehr in gute Zutaten zu investieren, wenn es mehr als lecker werden soll. 
