@@ -26,8 +26,9 @@ Ich würde es so sagen, je einfacher ein Gericht ist, desto mehr fällt die Qual
 
 
 ## Basilium-Exkurs
+![Basilikum Schnittkante](/images/uploads/basilikum.jpeg)
 
-![Basilikum Schnittkante](/images/upload/basilikum.jpeg)
+<img src="/images/uploads/basilikum.jpeg" style="zoom:30%;">
 
 Es muss einem bewusst sein, dass Pesto alla Genovese in den meisten Fällen den Tod der Basilikumpflanze bedeutet. Ein grüner Daumen hilft wenig, wenn man vor hat der Pflanze alle Blätter zu rauben. Ohne Blätter kann die Pflanze keine Energie mehr aus der Sonne ziehen und die Pflanze stirbt. Aber oft ist man in der Situation, dass man gar nicht sofort nach dem Kauf der Pflanze Pesto macht und es wird zur Herausforderung das Basilikum bis zu dem großen Moment am Leben zu erhalten. Mit ein paar kleinen Tipps gelingt das gut. 
 
